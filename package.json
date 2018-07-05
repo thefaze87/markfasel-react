@@ -2,7 +2,7 @@
   "name": "my-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://silly-swanson-f3143c.netlify.com",
+  "homepage": "https://markfasel.com",
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
