@@ -22,7 +22,7 @@ class App extends Component {
                 </div>
                 <div class="row">
                     <footer class="mastfoot col-md-12">
-                        <p>Copyright &copy; 2018 - Mark Fasel</p>
+                        <p>Copyright &copy; 2019 - Mark Fasel</p>
                         <p>All rights reserved.</p>
                     </footer>
                 </div>
