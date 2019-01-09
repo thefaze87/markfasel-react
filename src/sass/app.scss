@@ -38,10 +38,10 @@ p {
 	color: #fff;
 	margin-bottom: 75px;
 	a {
-		color: #54E7C7;
+		color: #00A384;
 		text-decoration: none;
 		&:hover {
-			color: rgba(255,255,255,.7);
+			color: #323232;
 		}
 	}
 }
@@ -51,11 +51,11 @@ p.lead {
 	line-height: 46px;
 	margin-bottom: 30px;
 	a {
-		color: #fff;
+		color: #00A384;
 		text-decoration: none;
-		border-bottom: 1px solid #fff;
+		border-bottom: 1px solid #00A384;
 		&:hover {
-			color: #54E7C7;
+			color: #323232;
 		}
 	}
 }
