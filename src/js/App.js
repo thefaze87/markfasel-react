@@ -8,7 +8,7 @@ class App extends Component {
                 <div class="row">
                     <header class="masthead col-md-12">
                         <div class="inner">
-                            <h1 class="masthead-brand"><img src="images/logo-new.svg" /></h1>
+                            <h1 class="masthead-brand"><img src="images/logo-new.svg" alt="Personal Brand Logo" /></h1>
                         </div>
                     </header>
                 </div>
